@@ -89,7 +89,9 @@
 ## Apparel
 
 [gnf]: https://godandfamo.us/
+[cadence]: https://www.cadencecollection.com/
 
+- [Cadence][cadence]
 - [God and famous][gnf]
 
 ## Marketplaces
