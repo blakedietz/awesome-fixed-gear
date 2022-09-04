@@ -41,7 +41,10 @@
 [ac]: https://allcitycycles.com/
 [sbfcsbsb]: https://surlybikes.com/
 [v]: https://vendettabikes.com/
+[eh]: http://engine11.bigcartel.com/
+[arh]: https://armawheels.bigcartel.com/
 
+- [ARMA Racing &mdash; Home][arh]
 - [Vendetta][v]
 - [Steel Bikes & Frames | Customizable Steel Bikes | Surly Bikes][sbfcsbsb]
 - [All-City Cycles][ac]
@@ -55,6 +58,7 @@
 - [Weis bikes][weis]
 - [Low bikes][low]
 - [Kory york][kory]
+- [ENGINE11 &mdash; Home][eh]
 
 #### Chainrings
 
@@ -73,6 +77,12 @@
 
 - [NJS Export][ne]
 - [Kuromori Bike Co][kb]
+
+## Apparel
+
+[gnf]: https://godandfamo.us/
+
+- [God and famous][gnf]
 
 ## Marketplaces
 
