@@ -15,9 +15,9 @@
 [apb]: https://www.charlie-jp.com/
 [wabi]: https://wabicycles.com/
 [bbpaacaapwfs]: https://bikeisland.com/
-[sut6orbfs4sgkfmamrbadfsgkfmmgdrbscrbtrbdarburbb]: https://www.bikesdirect.com/products/road_bikes.htm?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeNs2VfwpcbEVvKqVcblAQP3jBFYE-Ul6BG4JaCNfBA9IEPsT660JawaAlCqEALw_wcB
+[bd]: https://www.bikesdirect.com/products/road_bikes.htm?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeNs2VfwpcbEVvKqVcblAQP3jBFYE-Ul6BG4JaCNfBA9IEPsT660JawaAlCqEALw_wcB
 
-- [Save up to 60% off Road Bikes, Free Ship 48, Schwinn, GT, Kestrel, Fuji, Motobecane and more Road bikes. Authorized dealer for Schwinn, GT, Kestrel, Fuji, Motobecane, Mercier, Gravity, Dawes road bikes. Shimano Carbon Road Bikes, Titanium Road Bikes, Dura Ace Road Bikes, Ultegra Road Bikes - bikesdirect.com][sut6orbfs4sgkfmamrbadfsgkfmmgdrbscrbtrbdarburbb]
+- [bikesdirect.com][bd]
 - [BikeIsland.com - Bicycle Parts, Accessories and Clothing at Affordable Prices with Free Shipping][bbpaacaapwfs]
 - [Wabi cycles][wabi]
 - [Charlie ~make a personalized bicycle ][apb]
