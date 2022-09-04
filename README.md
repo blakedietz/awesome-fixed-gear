@@ -29,7 +29,17 @@
 #### Frames
 
 [kory]: https://koryyork.com/
+[low]: https://www.lowbicycles.com/
+[weis]: http://www.weismfg.com/
+[lw]: https://22bicycles.com/products/little-wing-made-to-order
+[skream]: https://skreambikes.com/
+[leader]: https://www.leaderbikesusa.com/
 
+- [Leader bikes][leader]
+- [Skream bikes][skream]
+- [Little wing][lw]
+- [Weis bikes][weis]
+- [Low bikes][low]
 - [Kory york][kory]
 
 #### Chainrings
