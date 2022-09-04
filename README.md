@@ -1,4 +1,4 @@
-# awesome-fixed-gear
+# Awesome fixed gear
 
 ## Shops
 
