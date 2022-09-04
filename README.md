@@ -104,6 +104,12 @@
 
 - [London fixed gear and single speed][lfgss]
 
+## Applications
+
+[bspcc]: https://www.bikecalc.com/skid_patch_calculator
+
+- [BikeCalc.com - Skid Patch Chart Calculator][bspcc]
+
 ## Gallery
 
 [fgbtfggob]: http://thefixedgeargallery.com/
