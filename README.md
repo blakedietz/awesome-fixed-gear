@@ -34,7 +34,21 @@
 [lw]: https://22bicycles.com/products/little-wing-made-to-order
 [skream]: https://skreambikes.com/
 [leader]: https://www.leaderbikesusa.com/
+[tyrant]: https://tyrantbikes.com/
+[bctrgmfab]: https://www.brothercycles.com/
+[ptd1]: https://www.ciclipelizzoli.it/en/
+[colossi]: https://www.colossiv5.com/
+[ac]: https://allcitycycles.com/
+[sbfcsbsb]: https://surlybikes.com/
+[v]: https://vendettabikes.com/
 
+- [Vendetta][v]
+- [Steel Bikes & Frames | Customizable Steel Bikes | Surly Bikes][sbfcsbsb]
+- [All-City Cycles][ac]
+- [Colossi bikes][colossi]
+- [Pelizzoli &#8211; Telaisti dal 1967][ptd1]
+- [Brother Cycles | Track, Road, Gravel &amp; MTB frames and bicycles][bctrgmfab]
+- [Tyrant bikes][tyrant]
 - [Leader bikes][leader]
 - [Skream bikes][skream]
 - [Little wing][lw]
@@ -61,6 +75,10 @@
 - [Kuromori Bike Co][kb]
 
 ## Marketplaces
+
+[lfgss]: https://www.lfgss.com/
+
+- [London fixed gear and single speed][lfgss]
 
 ## Gallery
 
