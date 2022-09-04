@@ -23,7 +23,7 @@
 - [Charlie ~make a personalized bicycle ][apb]
 - [MASHSF | MASHSF][mm]
 - [retro-gression.com][rg]
-- [Velomine.com : Worldwide Bicycle Shop, fixed gear track bike wheelsets campagnolo super record vintage bike][vwbsfgtbwcsrvb]
+- [Velomine.com][vwbsfgtbwcsrvb]
 - [VeloBike][velobike]
 - [NOVACORONA][n]
 - [Dosnoventa® Bikes. High-end Urban Bicycles Designed In BarcelonaDosnoventa®][dbhubdib]
