@@ -51,7 +51,9 @@
 [v]: https://vendettabikes.com/
 [eh]: http://engine11.bigcartel.com/
 [arh]: https://armawheels.bigcartel.com/
+[affinity]: https://affinitycycles.com/
 
+- [affinity cycles][affinity]
 - [ARMA Racing &mdash; Home][arh]
 - [Vendetta][v]
 - [Steel Bikes & Frames | Customizable Steel Bikes | Surly Bikes][sbfcsbsb]
