@@ -17,6 +17,7 @@
 [bbpaacaapwfs]: https://bikeisland.com/
 [bd]: https://www.bikesdirect.com/products/road_bikes.htm?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeNs2VfwpcbEVvKqVcblAQP3jBFYE-Ul6BG4JaCNfBA9IEPsT660JawaAlCqEALw_wcB
 [alter]: https://alter.shoplineapp.com/pages/home
+[op]: https://www.oceaninfinite.com/products
 
 - [alter][alter]
 - [bikesdirect.com][bd]
@@ -33,6 +34,7 @@
 - [Levelo HK][lhk]
 - [Deluxe cycles][dc]
 - [Squid bikes][squid]
+- [oceaninfinite &mdash; Products][op]
 
 ### Part specific
 
