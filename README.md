@@ -84,6 +84,12 @@
 - [digirit | Carbon | Chainring | Pulley | Bike Parts | Taiwan][dccpbpt]
 - [HOME - Orbita Chainrings][hoc]
 
+#### Straps
+
+[hf]: https://holdfastordie.com/pages/about-us
+
+- [Hold Fast][hf]
+
 ### NJS
 
 [kb]: https://kuromoribikeco.com/collections/njs
