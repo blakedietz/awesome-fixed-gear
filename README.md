@@ -18,7 +18,13 @@
 [bd]: https://www.bikesdirect.com/products/road_bikes.htm?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeNs2VfwpcbEVvKqVcblAQP3jBFYE-Ul6BG4JaCNfBA9IEPsT660JawaAlCqEALw_wcB
 [alter]: https://alter.shoplineapp.com/pages/home
 [op]: https://www.oceaninfinite.com/products
+[mbs]: https://www.mrbikeshop.com/
+[cjs]: custom-junkies.com
+[6ku]: https://www.6ku.com/
 
+- [6ku][6ku]
+- [Custom Junkies][cjs]
+- [Mr Bike Shop][mr]
 - [alter][alter]
 - [bikesdirect.com][bd]
 - [BikeIsland.com - Bicycle Parts, Accessories and Clothing at Affordable Prices with Free Shipping][bbpaacaapwfs]
