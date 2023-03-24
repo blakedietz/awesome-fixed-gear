@@ -24,7 +24,7 @@
 
 - [6ku][6ku]
 - [Custom Junkies][cjs]
-- [Mr Bike Shop][mr]
+- [Mr Bike Shop][mbs]
 - [alter][alter]
 - [bikesdirect.com][bd]
 - [BikeIsland.com - Bicycle Parts, Accessories and Clothing at Affordable Prices with Free Shipping][bbpaacaapwfs]
