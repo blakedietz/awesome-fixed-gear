@@ -65,7 +65,9 @@
 [arh]: https://armawheels.bigcartel.com/
 [affinity]: https://affinitycycles.com/
 [master]: https://www.masterbike.co/
+[quokka]: https://quokkacycles.com/
 
+- [Quokka cycles][quokka]
 - [Master bike co][master]
 - [affinity cycles][affinity]
 - [ARMA Racing &mdash; Home][arh]
