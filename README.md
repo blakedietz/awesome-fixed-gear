@@ -21,7 +21,9 @@
 [mbs]: https://www.mrbikeshop.com/
 [cjs]: custom-junkies.com
 [6ku]: https://www.6ku.com/
+[v]: https://www.victoire-cycles.com/
 
+- [Victoire][v]
 - [6ku][6ku]
 - [Custom Junkies][cjs]
 - [Mr Bike Shop][mbs]
