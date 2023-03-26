@@ -62,7 +62,9 @@
 [eh]: http://engine11.bigcartel.com/
 [arh]: https://armawheels.bigcartel.com/
 [affinity]: https://affinitycycles.com/
+[master]: https://www.masterbike.co/
 
+- [Master bike co][master]
 - [affinity cycles][affinity]
 - [ARMA Racing &mdash; Home][arh]
 - [Vendetta][v]
